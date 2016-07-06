@@ -1,6 +1,5 @@
 # Zebra-Puzzle
-Solution to the zebra puzzle; project realized for COMP20230 Data Structures and Algorithms (University College Dublin)
-Individual project.
+Solution to the zebra puzzle ([brief](COMP20230_Project.pdf)); project realized for COMP20230 Data Structures and Algorithms (University College Dublin)
 
 To execute this python code, please import it in your favorite IDE and execute it. Alternatively,
 please open your favorite terminal, cd to the location where zebra.py is saved, and execute the following command:
