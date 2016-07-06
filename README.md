@@ -13,13 +13,13 @@ please open your favorite terminal, cd to the location where zebra.py is saved, 
 
 
 The solution is:
-```House #1
-water 		fox 		yellow 		Cluedo 			Norway
-House #2
-tea 		horse 		blue 		Pictionary 		Ukraine 
-House #3
-milk 		snails 		red 		Snakes and Ladders 	England
-House #4
-orange 		dog 		ivory 		Travel the World 	Spain 
-House #5
-coffee 		zebra 		green 		Backgammon 		Japan```
+```House #1```
+```water 		fox 		yellow 		Cluedo 			Norway```
+```House #2```
+```tea 		horse 		blue 		Pictionary 		Ukraine ```
+```House #3```
+```milk 		snails 		red 		Snakes and Ladders 	England```
+```House #4```
+```orange 		dog 		ivory 		Travel the World 	Spain ```
+```House #5```
+```coffee 		zebra 		green 		Backgammon 		Japan```
